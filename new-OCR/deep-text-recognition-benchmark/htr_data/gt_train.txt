@@ -1,0 +1,14 @@
+train/00000000.png	궶
+train/00000002.png	푚
+train/00000004.png	읂
+train/00000005.png	좠
+train/00000006.png	떢
+train/00000007.png	킠
+train/00000008.png	뱝
+train/00000009.png	뫢
+train/00000012.png	뜪
+train/00000014.png	뙅
+train/00000015.png	숝
+train/00000016.png	솆
+train/00000017.png	몊
+train/00000019.png	찑
